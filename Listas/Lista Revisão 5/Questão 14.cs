@@ -1,6 +1,6 @@
 using System;
 public class Program{
-  public static void Main(string[] args){
+  public static void Main(){
     string s = Console.ReadLine();
     Console.WriteLine(Referencia(s));
   }
